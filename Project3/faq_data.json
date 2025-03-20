@@ -1,0 +1,68 @@
+{
+    "faqs": [
+        {
+            "question": "What are your working hours?",
+            "answer": "We are open from 9 AM to 6 PM, Monday to Friday."
+        },
+        {
+            "question": "How can I reset my password?",
+            "answer": "Go to settings, select 'Change Password', and follow the instructions."
+        },
+        {
+            "question": "Do you offer refunds?",
+            "answer": "Yes, refunds are available within 30 days of purchase."
+        },
+        {
+            "question": "Where is your company located?",
+            "answer": "We are located at 123 Tech Street, San Francisco, CA."
+        },
+        {
+            "question": "How do I contact customer support?",
+            "answer": "You can reach us via email at support@company.com or call us at +1-800-555-1234."
+        },
+        {
+            "question": "Do you have a mobile app?",
+            "answer": "Yes, our mobile app is available on both Android and iOS platforms."
+        },
+        {
+            "question": "What payment methods do you accept?",
+            "answer": "We accept credit cards, PayPal, and bank transfers."
+        },
+        {
+            "question": "How long does delivery take?",
+            "answer": "Delivery usually takes 3-5 business days depending on your location."
+        },
+        {
+            "question": "Hi",
+            "answer": "Hi, how can I help you?"
+        },
+        {
+            "question": "Thank you",
+            "answer": "You're welcome!"
+        },
+        {
+            "question": "Have a nice day",
+            "answer": "Thank you! You too!"
+        },
+        {
+            "question": "What is your name?",
+            "answer": "I am your friendly chatbot!"
+        },
+        {
+            "question": "Who created you?",
+            "answer": "I was created by a team of developers to assist you."
+        },
+        {
+            "question": "Can you help me with something?",
+            "answer": "Of course! What do you need help with?"
+        },
+        {
+            "question": "Tell me a joke",
+            "answer": "Sure! Why don’t skeletons fight each other? Because they don’t have the guts!"
+        },
+        {
+            "question": "Goodbye",
+            "answer": "Goodbye! Have a great day!"
+        }
+    ]
+}
